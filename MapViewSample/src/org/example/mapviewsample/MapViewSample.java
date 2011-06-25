@@ -7,6 +7,7 @@ import android.os.Bundle;
 
 public class MapViewSample extends MapActivity {
 
+	// add comment
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.main);
