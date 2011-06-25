@@ -8,7 +8,7 @@
 <com.google.android.maps.MapView
                  android:layout_width="fill_parent"
                  android:layout_height="fill_parent"
-                 android:apiKey="0Q6whXQwxyDryhQKLbP6RiEAteC4V948RkYpX-A"
+                 android:apiKey="0Q6whXQwxyDrUe5XZ8hO8PNB5kzqxOKFdAFqiLg"
                  />
     
 <TextView  
