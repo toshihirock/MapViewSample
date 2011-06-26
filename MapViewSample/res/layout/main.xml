@@ -4,17 +4,19 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     >
-    
+<TextView  
+    android:id="@+id/TextView01"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:textColor="@android:color/black"
+    android:background="@android:color/white"
+    android:textSize="12pt"
+    />
 <com.google.android.maps.MapView
                  android:id="@+id/MapView01"
                  android:layout_width="fill_parent"
                  android:layout_height="fill_parent"
-                 android:apiKey="0Q6whXQwxyDryhQKLbP6RiEAteC4V948RkYpX-A"
+                 android:apiKey="0Q6whXQwxyDrUe5XZ8hO8PNB5kzqxOKFdAFqiLg"
                  />
     
-<TextView  
-    android:layout_width="fill_parent" 
-    android:layout_height="wrap_content" 
-    android:text="@string/hello"
-    />
 </LinearLayout>
